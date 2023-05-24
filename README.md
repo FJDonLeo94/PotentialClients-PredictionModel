@@ -1,5 +1,9 @@
 # PotentialClients-PredictionModel
+## Setup
 
+Para utilizar este proyecto, se debe descargar el archivo ipynb, abrirlo en google colab y ejecutar las celdas de código en orden descendente.
+
+## Explicación
 Este repo trata sobre una red neuronal creada y entrenada utilizando un dataframe, a esta red neuronal se le ha creado una API y un demo utilizando Gradio.
 
 El modelo toma tres variables sobre gente que navega en la pagina web de una tienda y predice cual de esos potenciales clientes pasan a clientes reales. 
